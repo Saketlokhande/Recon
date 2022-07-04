@@ -6,8 +6,8 @@
 
 **How to Use**
 
-1. `chmod +x recon.sh && sudo cp recon /bin`
-2. `autohack.sh target.com`
+1. `chmod +x recon.sh && sudo cp recon.sh /bin`
+2. `recon.sh target.com`
 
 **What in target.txt**
 
