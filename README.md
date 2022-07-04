@@ -2,7 +2,7 @@
 
 **How to install**
 
-1. `git clone https://github.com/Saketlokhande/Recon.git`
+1. `git clone https://github.com/Saketlokhande/recon.git`
 
 **How to Use**
 
