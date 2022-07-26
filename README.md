@@ -10,7 +10,7 @@
 
 1. `cd recon`
 2. `chmod +x recon.sh && sudo cp recon.sh /bin`
-3. `recon.sh target.com`
+3. `recon.sh -d target.com`
 
 **What in target.txt**
 
