@@ -4,7 +4,7 @@
 
 1. `git clone https://github.com/Saketlokhande/recon.git`
 2. `cd autohack`
-3. run `bash requirements.sh`
+3. run `bash requirement.sh`
 
 **How to Use**
 
