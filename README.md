@@ -3,11 +3,14 @@
 **How to install**
 
 1. `git clone https://github.com/Saketlokhande/recon.git`
+2. `cd autohack`
+3. run `bash requirements.sh`
 
 **How to Use**
 
-1. `chmod +x recon.sh && sudo cp recon.sh /bin`
-2. `recon.sh target.com`
+1. `cd recon`
+2. `chmod +x recon.sh && sudo cp recon.sh /bin`
+3. `recon.sh target.com`
 
 **What in target.txt**
 
